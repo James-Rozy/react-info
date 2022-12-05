@@ -7,7 +7,7 @@ export default function Navbar() {
         alt='React icon small'
       />
       <h3 className='nav--logo-text'>ReactFacts</h3>
-      <h4 className='nav--title'>React Course - Project 1</h4>
+      <h4 className='nav--title'>Learn React!</h4>
     </nav>
   );
 }
